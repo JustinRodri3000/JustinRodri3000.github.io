@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not Space Invaders
-subtitle: a clone of Space Invaders
+subtitle: a recreation of Space Invaders
 cover-img: /assets/img/dim40Background.png
 thumbnail-img: /assets/img/ezstudentFront.png
 share-img: /assets/img/dim40Background.png
